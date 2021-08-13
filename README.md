@@ -10,20 +10,20 @@
 
 ### Структура проекта:
 
-> #### README.md
+#### README.md
   
-  Description of the project
+> Описание проекта
 
-> ##### random.txt
+##### random.txt
   
-  Some random text 
+> Рандомный текст 1
 
-##### `random2.txt`
+##### random2.txt
 
-  Some random text 2
+>  Рандомный текст 2
 
-> ##### /part1
+##### ./part1
 
- Directory with files from the first part
+> Директория с файлами из первой части
 
 
