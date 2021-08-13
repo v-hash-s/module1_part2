@@ -2,11 +2,11 @@
 
 ## Vlasta Stelmakh
 
-### Issues page: https://github.com/v-hash-s/module1_part2/issues
+###### Issues page: https://github.com/v-hash-s/module1_part2/issues
 
 #### Описание проекта:
 
->освоить работу с git с указанием списка команд и >их предназначением
+> Oсвоить работу с git с указанием списка команд и >их предназначением
 
 ### Структура проекта:
 
