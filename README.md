@@ -18,7 +18,7 @@
   
   Some random text 
 
-> ##### random2.txt
+` ##### random2.txt`
 
   Some random text 2
 
