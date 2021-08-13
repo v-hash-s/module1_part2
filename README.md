@@ -1,6 +1,6 @@
 # module1_part2
 
-## Author: Vlasta Stelmakh
+## Vlasta Stelmakh
 
 ### Issues page: https://github.com/v-hash-s/module1_part2/issues
 
@@ -9,6 +9,15 @@
 >освоить работу с git с указанием списка команд и >их предназначением
 
 ### Структура проекта:
+
+* README.md
+* random.txt
+* random2.txt
+* ./part1:
+  * index.html
+  * index2.html
+  * /src
+    * index.js
 
 #### README.md
   
